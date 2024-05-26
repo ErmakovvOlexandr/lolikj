@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>Logika</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   <header>
+       <img src="https://learn.logikaschool.com/uploads/2021/01/logo_0_1611261359.svg">
+       <button>Photos</button>
+   </header>
+   <main>
+       <h1>Шевченки</h1>
+       <img src="https://learn.logikaschool.com/uploads/2021/01/happy-family-2284698_1920%201_0_1611261360.png">
+       <img src="https://learn.logikaschool.com/uploads/2021/01/children-817368_1920%201_0_1611261360.png">
+       <img src="https://learn.logikaschool.com/uploads/2021/01/house-1158139_1920%201_0_1611261360.png">
+       <h2>Ми - сім'я Шевченків<img src="https://learn.logikaschool.com/uploads/2021/01/smile_0_1611261360.svg"></h2>
+       <ul>
+         <li>Тато Алекс - інженер, архітектор</li>
+         <li>мама Наталя - ландшафтний дизайнер, флорист</li>
+         <li>діти Джеймс і Альона - фотографи-початківці</li>
+         <li>пес Джонсон - головний у веселій армії</li>
+       </ul>
+       <h1 class="odbilo"> Любимо веселі свята для всієї сім'ї </h1>
+   </main>
+   <footer>
+      <p> Ель пошта: </p>
+      <p> Телефон: </p>
+   </footer>
+  </body>
+</html>    
